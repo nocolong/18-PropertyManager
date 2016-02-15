@@ -1,0 +1,19 @@
+{
+  "name": "PropertyManager.Web",
+  "homepage": "https://github.com/nocolong/18-PropertyManager",
+  "authors": [
+    "Greg McIntyre <nocolong@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
